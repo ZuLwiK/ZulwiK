@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋 My name is Mike - I am a Java Developer
 
-<!--
-**ZuLwiK/ZulwiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I create various sort of applications, starting from simple landing pages ending with web applications
+### - 🔭 I’m currently working on my portfolio project for job purposes :)
+### - 🌱 I’m currently learning Spock Testing Framework and Angular Framework
+### - ⚡ About me :
 
-Here are some ideas to get you started:
+### Coding is my passion, I love to code and help others solve their problems. My dream is to get a job as a Java Developer so that I could learn much more from professional programmers :)
+### I am really hard-working man I always try to do my best.
+### I have more than 5-year working experience in the industrial engineering world. In that 5+ year time apart of engineering knowledge, I have developed social/communication skills that in my opinion are very important in every career life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - 📫 How to reach me :
+[<img align="left" alt="Michał Smolorz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Michał Smolorz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg"/>][facebook]
+
+[facebook]: https://www.facebook.com/smihau
+[linkedin]: https://www.linkedin.com/in/smolorzmichal/
