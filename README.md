@@ -5,7 +5,7 @@
 ### - 🌱 I’m currently learning Spock Testing Framework and Angular Framework
 ### - ⚡ About me :
 
-### Coding is my passion, I love to code and help others solve their problems. My dream is to get a job as a Java Developer so that I could learn much more from professional programmers :)
+### Coding is my passion, I love to code and help others solve their problems. My dream is to create apps that change the world or at least a country :)
 ### I am really hard-working man I always try to do my best.
 ### I have more than 5-year working experience in the industrial engineering world. In that 5+ year time apart of engineering knowledge, I have developed social/communication skills that in my opinion are very important in every career life.
 
